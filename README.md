@@ -6,8 +6,7 @@ This is a very simple game with only three game play levels.
 I have however tried to make it a bit harder to win by establishing harsh conditions.
 
 ## Video
-[![vlcsnap-2019-03-06-16h13m31s591](https://user-images.githubusercontent.com/8284699/53891742-4d876100-402b-11e9-8161-ea5e0c16554e.png)]
-(https://drive.google.com/open?id=1kdg5gcLgiYHsbEk9_cP_SxsTISaQvjp2)
+[![vlcsnap-2019-03-06-16h13m31s591](https://user-images.githubusercontent.com/8284699/53891742-4d876100-402b-11e9-8161-ea5e0c16554e.png)](https://drive.google.com/open?id=1kdg5gcLgiYHsbEk9_cP_SxsTISaQvjp2)
 
 ## How to play the game:
 1. The game has three levels.
